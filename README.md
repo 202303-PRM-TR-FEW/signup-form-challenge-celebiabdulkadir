@@ -4,6 +4,9 @@
 
 ## Welcome! 👋
 
+## Netlify link
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/d8a0557a-6982-4ac3-9eef-6ca797ce121e/deploy-status)](https://darling-lily-ab0eb1.netlify.app/)
 Thanks for checking out this front-end coding challenge.
 
 [Frontend Mentor](https://www.frontendmentor.io) challenges help you improve your coding skills by building realistic projects.
